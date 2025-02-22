@@ -19,7 +19,7 @@ Mis redes:
 <h2>📊 Github Analytics </h2> 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=MarcRieraDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--![](https://github-contributor-stats.vercel.app/api?username=MarcRieraDev&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcRieraDev&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 </div>
